@@ -1,7 +1,4 @@
-### Write your name and ID
 ## Name: Ahmed Adel Ahmed
-## Sec: 1 	BN:6
-## ID: AAA2021
 
 ## steps
 you can go to main.py and run it
